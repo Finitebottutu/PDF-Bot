@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "finitepdf",
+  "private_key_id": "48cc4c01d10aa1b001228307a3aeb6f3533ebf70",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDgx/zlAXp0e7DH\nJx+1Ib+XYQg4BA9gYXHmccdGUATAeWY1jEFLfQBa5EY8hQVbZTUq1TajCNb4Sl5f\nbfSgn0TKbcEOlp1DwfyC3LLpKBjanPe0deUZCKSuuASraWvFThQ70xPwwuToVeFv\nIw50KApLA1h2VbgGuSHJT3ljbOrs4vmbr5vTvl6l+IJv5Mbr85v2TIJHZkMUT5Co\nQvUQ6M/lnob7CInJIeGrNLj1J6SdzhYeORnuiaNHjv0DP2MCZMhtCQJWB+91m4uq\nkxd6oV+JFiDwP0r0N2emN5KG2ZwOm5HCgthJ5+YYAy0WqaMTRvkS5Xgz6RHUwRIU\nPx/C+PTvAgMBAAECggEAS74n8fTvEfwyA9GjphHysOxR7Co2EjiTvF6/kupYx5DA\nx690ux6qdXYxUqhSN0thwIarDAHpCi5pIYf4I/23HO0h3iwTXycpUuFSai2IPnYh\nI86MPcTDVVqNvELgPVKDj+se74SExONXfO8Xqj1pxoAgmXNl+OH+SAr/MOkdOmfZ\nfvG3isSY9tlT1kRYYAJJYX4tVwJ+b5tJYbBYWhjq65s1/OPomZVE7SNfqvkAMjjI\nAHG0E0joD5E/I7vg3XzGnXQJnXo22ir9WYK+hIiBKioY7AoiMInhCm+m1Rzb9jq1\nDhWmlnAIG8/asDjOuzj5wlg99lddcIdJ+NWQWGtzkQKBgQD5yl4YEyg3al0ii5vH\nY5wjUpOVwe6ScvR58UtOKdCUwMruxYKTMo9nKxImNCU/+jA6yuLEv/jOOXHkjgqX\nhduBdtpOF138ba6REtBjbWdzYS+OGAWjP/pCzaCXom1WuJtom4KJNdRiDNbqSUBy\nOVaDHzh/4RM+jG/lqL72IpbI/wKBgQDmXnbvWlErkapPJrmEj/2jMpp3h28y/bck\n0qorCfkTi0dBnOk3mScq+lyJjqN5Dna2aDN8YbGv0h0iOv05yJkQlz632BLK7DjG\nfa04645Uermfit/gF9bzVNceE+0dAshqYo92BZ6B+emMAGHwulGX6HFRZH4P43vq\nIKdz7Y5kEQKBgQDwiFI7VJcxZZbxoQYM5np/+RBs8SZOl6ubkSM2zUUxOMUxT7gB\nDnrQmcUMTMJh7QVsV9ouI73ut5pYv/6rEhbhgBWPhSjX3rZutHM+iydHD5q/dZpY\nLU9L7L5rxdkL3RCplrYIcnFlSX/ac1c/pr8L3JCHc7EYVhuaRvg8A+q2+QKBgEkb\nZWckJGpNOd0QjwNQps9pubeBFXr7JWncKQCrk43uP1jFMQXh5povBbrpt1stieLt\nQpmQb1E6vuAkFESIMnsfZFn3ik83k/T54UUVDAAnSk0lR1LYffCO1g3HiRIR1gRc\n7uYndlwNMV6qqGo61rX8oCmSWKc2LBbq8flKREvhAoGAWV76K9Y+1DiwHZGZkFxA\ntdPRQA/uMe5SY/irgiiCIpAQe1ZgJGLeXzmF3xIMHu1SB7QGaW36JUTBbGKkArMG\nNW3Gp8TEmygSj4PU6hkUKHTA8/YkFGNyHwYt6NNQyyxEKNEuGN2LPYkqsdCaJtex\nL1JsJTlVtjpS+5O9b/+HM7Q=\n-----END PRIVATE KEY-----\n",
+  "client_email": "finitepdfbot16@finitepdf.iam.gserviceaccount.com",
+  "client_id": "100983713086954384030",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/finitepdfbot16%40finitepdf.iam.gserviceaccount.com"
+}
